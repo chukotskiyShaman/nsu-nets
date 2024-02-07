@@ -1,0 +1,10 @@
+Domain,Response Time (ms),Packet Loss
+google.com,66.68,0.0
+yandex.ru,57.46,0.0
+wikipedia.org,95.0,0.0
+steamcommunity.org,2000.0,1.0
+telegram.org,2000.0,1.0
+notion.so,52.61,0.0
+dzen.ru,49.58,0.0
+github.com,88.52,0.0
+vk.com,60.24,0.0
